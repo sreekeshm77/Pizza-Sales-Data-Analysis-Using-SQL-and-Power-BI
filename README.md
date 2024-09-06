@@ -16,8 +16,9 @@ Finally, the cross-verification process between the Power BI dashboard outputs a
 
 Overall, this project demonstrates a comprehensive approach to data analysis using SQL and Power BI, showcasing the effective use of data cleaning, advanced functions, visualization techniques, and cross-verification to derive valuable business insights.
 
-![Image Alt]()
+![Image Alt](https://github.com/sreekeshm77/Pizza-Sales-Data-Analysis-Using-SQL-and-Power-BI/blob/33ee082256d0862560f10806c21db2254a160325/Dashboard_page_1.png)
 
+![Image Alt]()
 Steps
 
 1. The project involved analyzing pizza sales data using SQL and Power BI (PBI).
