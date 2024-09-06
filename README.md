@@ -1,4 +1,4 @@
-Pizza Sales Data Analysis Using SQL and Power BI
+*Pizza Sales Data Analysis Using SQL and Power BI*
 
 This project focuses on analyzing pizza sales data through a combination of SQL and Power BI, aiming to uncover insights that drive business decisions and enhance performance.
 
@@ -15,6 +15,8 @@ To ensure accuracy and reliability, the KPIs and visual trends generated in Powe
 Finally, the cross-verification process between the Power BI dashboard outputs and the SQL Server query results confirmed consistency and accuracy in the data analysis. This alignment ensured that the insights drawn from the Power BI dashboard were reliable and actionable, supporting strategic decision-making to enhance business performance.
 
 Overall, this project demonstrates a comprehensive approach to data analysis using SQL and Power BI, showcasing the effective use of data cleaning, advanced functions, visualization techniques, and cross-verification to derive valuable business insights.
+
+![Image Alt]()
 
 Steps
 
