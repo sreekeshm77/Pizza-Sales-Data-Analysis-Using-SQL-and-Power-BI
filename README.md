@@ -1,4 +1,4 @@
-*Pizza Sales Data Analysis Using SQL and Power BI*
+                                 Pizza Sales Data Analysis Using SQL and Power BI
 
 This project focuses on analyzing pizza sales data through a combination of SQL and Power BI, aiming to uncover insights that drive business decisions and enhance performance.
 
@@ -18,8 +18,9 @@ Overall, this project demonstrates a comprehensive approach to data analysis usi
 
 ![Image Alt](https://github.com/sreekeshm77/Pizza-Sales-Data-Analysis-Using-SQL-and-Power-BI/blob/33ee082256d0862560f10806c21db2254a160325/Dashboard_page_1.png)
 
-![Image Alt]()
-Steps
+![Image Alt](https://github.com/sreekeshm77/Pizza-Sales-Data-Analysis-Using-SQL-and-Power-BI/blob/d02bd86fa971c2fff27346b2b379f62bf74b358d/Screenshot%202024-09-03%20152749.png)
+
+                                         Steps
 
 1. The project involved analyzing pizza sales data using SQL and Power BI (PBI).
 2. The data was cleaned in Excel by changing data types and handling missing values.
